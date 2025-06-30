@@ -1,0 +1,201 @@
+Item,Category,Stock,Expiry Date,Predicted Unsold Units,Discount %,Store Location
+Brown Bread - Batch 13,Bakery,104,2025-06-22,21,12,Mumbai Express
+Mutton Chunks - Batch 13,Meat,97,2025-06-20,38,10,Delhi Wholesale Hub
+Mango - Batch 7,Fruits,87,2025-07-05,23,15,Hyderabad FreshMart
+Curd Pack - Batch 14,Dairy,54,2025-06-16,3,12,Hyderabad FreshMart
+Mutton Chunks - Batch 13,Meat,19,2025-06-30,5,10,Hyderabad FreshMart
+Ice Cream Tub - Batch 10,Frozen,83,2025-07-16,8,18,Delhi Wholesale Hub
+Veg Nuggets - Batch 17,Frozen,17,2025-07-19,5,0,Bengaluru Supercenter
+Curd Pack - Batch 9,Dairy,106,2025-06-23,17,0,Mumbai Express
+Multigrain Bread - Batch 3,Bakery,17,2025-06-30,5,18,Hyderabad FreshMart
+Multigrain Bread - Batch 1,Bakery,30,2025-07-09,10,10,Mumbai Express
+Chicken Breast - Batch 19,Meat,63,2025-07-01,27,0,Hyderabad FreshMart
+Paneer Pack - Batch 6,Dairy,55,2025-06-30,3,20,Bengaluru Supercenter
+Frozen French Fries - Batch 4,Frozen,54,2025-07-05,13,12,Hyderabad FreshMart
+Garlic Bread - Batch 11,Bakery,92,2025-07-02,20,10,Mumbai Express
+Multigrain Bread - Batch 11,Bakery,41,2025-06-18,18,18,Delhi Wholesale Hub
+Oranges - Batch 2,Fruits,113,2025-06-18,54,5,Delhi Wholesale Hub
+Sausages - Batch 7,Meat,120,2025-06-12,30,10,Mumbai Express
+Sausages - Batch 20,Meat,89,2025-07-03,10,10,Hyderabad FreshMart
+Grapes - Batch 5,Fruits,97,2025-07-01,28,18,Mumbai Express
+Croissants - Batch 16,Bakery,80,2025-07-01,18,12,Hyderabad FreshMart
+Fish Fillet - Batch 15,Meat,27,2025-07-05,5,8,Mumbai Express
+Buttermilk - Batch 4,Dairy,27,2025-06-18,0,20,Bengaluru Supercenter
+Veg Nuggets - Batch 6,Frozen,67,2025-06-27,17,18,Hyderabad FreshMart
+Mango - Batch 5,Fruits,105,2025-07-01,19,5,Hyderabad FreshMart
+Bananas - Batch 9,Fruits,26,2025-06-26,1,12,Bengaluru Supercenter
+Curd Pack - Batch 7,Dairy,22,2025-07-07,1,12,Mumbai Express
+Watermelon - Batch 1,Fruits,113,2025-06-21,4,18,Delhi Wholesale Hub
+Apples - Batch 9,Fruits,56,2025-07-08,1,25,Hyderabad FreshMart
+Bananas - Batch 13,Fruits,97,2025-06-25,5,15,Mumbai Express
+Cupcakes - Batch 19,Bakery,119,2025-07-10,36,18,Hyderabad FreshMart
+Ice Cream Tub - Batch 7,Frozen,89,2025-06-30,34,20,Delhi Wholesale Hub
+Frozen Peas - Batch 4,Frozen,97,2025-07-17,11,5,Hyderabad FreshMart
+Oranges - Batch 18,Fruits,25,2025-06-25,7,8,Bengaluru Supercenter
+Bananas - Batch 17,Fruits,101,2025-06-16,13,20,Mumbai Express
+Donuts - Batch 5,Bakery,55,2025-07-07,8,20,Delhi Wholesale Hub
+Butter Tub - Batch 16,Dairy,33,2025-07-01,15,15,Delhi Wholesale Hub
+Frozen Peas - Batch 9,Frozen,34,2025-07-15,5,8,Bengaluru Supercenter
+Amul Milk - Batch 6,Dairy,50,2025-07-05,25,0,Hyderabad FreshMart
+Ice Cream Tub - Batch 3,Frozen,17,2025-07-11,1,18,Bengaluru Supercenter
+Lassi Bottle - Batch 3,Dairy,89,2025-06-24,40,10,Hyderabad FreshMart
+Sausages - Batch 11,Meat,108,2025-06-29,10,12,Hyderabad FreshMart
+Watermelon - Batch 7,Fruits,100,2025-06-20,6,8,Delhi Wholesale Hub
+Frozen French Fries - Batch 4,Frozen,84,2025-07-22,20,0,Mumbai Express
+Multigrain Bread - Batch 14,Bakery,16,2025-07-08,6,12,Bengaluru Supercenter
+Butter Tub - Batch 3,Dairy,106,2025-06-28,50,10,Bengaluru Supercenter
+Brown Bread - Batch 11,Bakery,76,2025-07-05,37,0,Delhi Wholesale Hub
+Frozen Mixed Veg - Batch 9,Frozen,95,2025-07-17,4,25,Mumbai Express
+Frozen Peas - Batch 13,Frozen,82,2025-07-06,24,15,Mumbai Express
+Apples - Batch 3,Fruits,109,2025-07-05,4,22,Bengaluru Supercenter
+Paneer Pack - Batch 20,Dairy,87,2025-06-21,6,22,Mumbai Express
+Apples - Batch 13,Fruits,89,2025-07-01,28,25,Delhi Wholesale Hub
+Veg Nuggets - Batch 19,Frozen,12,2025-07-14,5,15,Hyderabad FreshMart
+Mutton Chunks - Batch 7,Meat,102,2025-06-26,49,10,Bengaluru Supercenter
+Lassi Bottle - Batch 10,Dairy,117,2025-07-05,8,5,Bengaluru Supercenter
+Cupcakes - Batch 13,Bakery,95,2025-07-02,13,10,Delhi Wholesale Hub
+Mutton Chunks - Batch 16,Meat,41,2025-06-11,2,25,Bengaluru Supercenter
+Oranges - Batch 11,Fruits,79,2025-07-04,15,18,Mumbai Express
+Lassi Bottle - Batch 3,Dairy,81,2025-06-28,24,22,Bengaluru Supercenter
+Frozen French Fries - Batch 10,Frozen,22,2025-06-29,4,22,Delhi Wholesale Hub
+Frozen French Fries - Batch 3,Frozen,67,2025-07-08,1,20,Mumbai Express
+Cheese Slice Pack - Batch 14,Dairy,62,2025-07-05,28,15,Bengaluru Supercenter
+Sausages - Batch 6,Meat,93,2025-06-26,14,5,Hyderabad FreshMart
+Donuts - Batch 7,Bakery,98,2025-07-09,28,25,Mumbai Express
+Curd Pack - Batch 16,Dairy,23,2025-07-01,9,0,Bengaluru Supercenter
+Cheese Slice Pack - Batch 19,Dairy,96,2025-06-20,29,18,Mumbai Express
+Sausages - Batch 15,Meat,52,2025-06-17,17,18,Hyderabad FreshMart
+Croissants - Batch 11,Bakery,65,2025-06-15,3,15,Delhi Wholesale Hub
+Fish Fillet - Batch 14,Meat,102,2025-06-30,12,5,Hyderabad FreshMart
+Butter Tub - Batch 13,Dairy,52,2025-07-04,1,22,Bengaluru Supercenter
+Multigrain Bread - Batch 6,Bakery,68,2025-06-29,21,25,Delhi Wholesale Hub
+Croissants - Batch 16,Bakery,29,2025-06-28,6,10,Mumbai Express
+Croissants - Batch 6,Bakery,75,2025-06-15,28,25,Mumbai Express
+Mutton Chunks - Batch 2,Meat,114,2025-06-29,39,25,Delhi Wholesale Hub
+Donuts - Batch 9,Bakery,30,2025-07-07,10,8,Bengaluru Supercenter
+Watermelon - Batch 15,Fruits,64,2025-06-28,31,5,Delhi Wholesale Hub
+Mutton Chunks - Batch 1,Meat,33,2025-06-27,11,8,Bengaluru Supercenter
+Paneer Pack - Batch 10,Dairy,76,2025-06-16,35,25,Mumbai Express
+Garlic Bread - Batch 8,Bakery,31,2025-07-07,12,12,Delhi Wholesale Hub
+Frozen French Fries - Batch 3,Frozen,115,2025-07-13,36,25,Delhi Wholesale Hub
+Watermelon - Batch 12,Fruits,42,2025-07-03,21,12,Bengaluru Supercenter
+Butter Tub - Batch 12,Dairy,13,2025-06-27,2,20,Bengaluru Supercenter
+Lassi Bottle - Batch 12,Dairy,15,2025-06-16,7,25,Hyderabad FreshMart
+Butter Tub - Batch 3,Dairy,111,2025-06-21,36,5,Mumbai Express
+Paneer Pack - Batch 17,Dairy,28,2025-07-06,5,0,Mumbai Express
+Frozen Peas - Batch 19,Frozen,54,2025-07-01,25,18,Bengaluru Supercenter
+Curd Pack - Batch 18,Dairy,116,2025-07-05,58,18,Bengaluru Supercenter
+Bananas - Batch 12,Fruits,57,2025-06-23,9,0,Hyderabad FreshMart
+Brown Bread - Batch 2,Bakery,48,2025-06-22,12,15,Hyderabad FreshMart
+Frozen Peas - Batch 10,Frozen,12,2025-06-27,5,5,Bengaluru Supercenter
+Frozen Peas - Batch 5,Frozen,96,2025-07-01,10,0,Delhi Wholesale Hub
+Bananas - Batch 19,Fruits,87,2025-06-17,0,20,Mumbai Express
+Garlic Bread - Batch 5,Bakery,70,2025-07-06,25,25,Bengaluru Supercenter
+Cheese Slice Pack - Batch 14,Dairy,110,2025-06-18,27,20,Mumbai Express
+Mango - Batch 4,Fruits,104,2025-06-20,49,20,Hyderabad FreshMart
+Prawns - Batch 3,Meat,107,2025-06-23,38,10,Delhi Wholesale Hub
+Fish Fillet - Batch 11,Meat,115,2025-06-18,25,15,Delhi Wholesale Hub
+Prawns - Batch 7,Meat,20,2025-06-21,9,8,Mumbai Express
+Amul Milk - Batch 7,Dairy,110,2025-06-21,54,8,Hyderabad FreshMart
+Butter Tub - Batch 12,Dairy,84,2025-06-29,38,22,Mumbai Express
+Grapes - Batch 4,Fruits,17,2025-07-03,1,8,Hyderabad FreshMart
+Grapes - Batch 8,Fruits,67,2025-06-20,30,8,Hyderabad FreshMart
+Garlic Bread - Batch 4,Bakery,31,2025-06-29,2,5,Delhi Wholesale Hub
+Multigrain Bread - Batch 8,Bakery,16,2025-06-22,4,20,Hyderabad FreshMart
+Prawns - Batch 15,Meat,79,2025-06-23,15,8,Delhi Wholesale Hub
+Ice Cream Tub - Batch 9,Frozen,86,2025-07-12,20,20,Delhi Wholesale Hub
+Frozen Mixed Veg - Batch 13,Frozen,115,2025-06-30,46,10,Hyderabad FreshMart
+Chicken Breast - Batch 19,Meat,33,2025-06-20,8,15,Bengaluru Supercenter
+Paneer Pack - Batch 5,Dairy,103,2025-06-15,50,25,Hyderabad FreshMart
+Butter Tub - Batch 18,Dairy,112,2025-07-09,47,15,Hyderabad FreshMart
+Garlic Bread - Batch 10,Bakery,76,2025-06-25,36,12,Hyderabad FreshMart
+Brown Bread - Batch 20,Bakery,96,2025-06-29,46,25,Mumbai Express
+Ice Cream Tub - Batch 15,Frozen,52,2025-06-23,13,15,Hyderabad FreshMart
+Mutton Chunks - Batch 14,Meat,20,2025-07-03,10,18,Bengaluru Supercenter
+Ice Cream Tub - Batch 15,Frozen,23,2025-06-30,8,22,Hyderabad FreshMart
+Frozen French Fries - Batch 6,Frozen,47,2025-07-09,12,10,Bengaluru Supercenter
+Brown Bread - Batch 19,Bakery,13,2025-06-27,0,0,Mumbai Express
+Apples - Batch 3,Fruits,52,2025-06-27,6,10,Delhi Wholesale Hub
+Cheese Slice Pack - Batch 16,Dairy,28,2025-07-11,10,10,Delhi Wholesale Hub
+Watermelon - Batch 10,Fruits,45,2025-06-22,18,10,Bengaluru Supercenter
+Croissants - Batch 18,Bakery,97,2025-06-14,27,15,Mumbai Express
+Veg Nuggets - Batch 2,Frozen,14,2025-07-13,0,0,Delhi Wholesale Hub
+Garlic Bread - Batch 12,Bakery,43,2025-06-26,16,20,Mumbai Express
+Multigrain Bread - Batch 2,Bakery,74,2025-06-17,10,18,Delhi Wholesale Hub
+Butter Tub - Batch 10,Dairy,103,2025-06-21,45,20,Mumbai Express
+Apples - Batch 13,Fruits,12,2025-06-22,3,5,Delhi Wholesale Hub
+Frozen Corn - Batch 8,Frozen,110,2025-07-09,10,18,Mumbai Express
+Apples - Batch 6,Fruits,33,2025-07-05,4,8,Mumbai Express
+Frozen Peas - Batch 5,Frozen,80,2025-07-17,25,5,Mumbai Express
+Cupcakes - Batch 15,Bakery,79,2025-06-29,8,15,Bengaluru Supercenter
+Curd Pack - Batch 16,Dairy,46,2025-06-15,22,12,Hyderabad FreshMart
+Curd Pack - Batch 17,Dairy,49,2025-06-18,19,12,Hyderabad FreshMart
+Watermelon - Batch 12,Fruits,63,2025-07-12,30,10,Hyderabad FreshMart
+Sausages - Batch 5,Meat,70,2025-07-05,14,25,Delhi Wholesale Hub
+Grapes - Batch 8,Fruits,36,2025-07-03,10,5,Hyderabad FreshMart
+Grapes - Batch 3,Fruits,101,2025-06-30,22,20,Hyderabad FreshMart
+Cupcakes - Batch 19,Bakery,30,2025-06-29,12,5,Delhi Wholesale Hub
+Buttermilk - Batch 12,Dairy,41,2025-06-23,2,20,Hyderabad FreshMart
+Cheese Slice Pack - Batch 13,Dairy,68,2025-06-17,7,8,Mumbai Express
+Ice Cream Tub - Batch 8,Frozen,58,2025-07-04,6,8,Mumbai Express
+Amul Milk - Batch 6,Dairy,77,2025-07-03,13,25,Mumbai Express
+Chicken Breast - Batch 8,Meat,101,2025-07-05,48,12,Hyderabad FreshMart
+Cupcakes - Batch 6,Bakery,49,2025-07-03,14,10,Hyderabad FreshMart
+Fish Fillet - Batch 11,Meat,18,2025-07-11,6,10,Bengaluru Supercenter
+Donuts - Batch 9,Bakery,54,2025-06-30,15,5,Mumbai Express
+Cheese Slice Pack - Batch 15,Dairy,97,2025-06-26,25,10,Delhi Wholesale Hub
+Veg Nuggets - Batch 8,Frozen,115,2025-07-18,54,8,Mumbai Express
+Brown Bread - Batch 13,Bakery,56,2025-07-03,28,20,Delhi Wholesale Hub
+Paneer Pack - Batch 1,Dairy,40,2025-07-04,0,12,Delhi Wholesale Hub
+Frozen Peas - Batch 12,Frozen,76,2025-06-26,1,0,Mumbai Express
+Prawns - Batch 7,Meat,22,2025-06-26,7,5,Delhi Wholesale Hub
+Watermelon - Batch 10,Fruits,13,2025-06-29,3,22,Hyderabad FreshMart
+Cheese Slice Pack - Batch 2,Dairy,80,2025-07-05,35,8,Hyderabad FreshMart
+Butter Tub - Batch 18,Dairy,24,2025-06-27,11,0,Mumbai Express
+Frozen French Fries - Batch 9,Frozen,28,2025-07-20,14,8,Delhi Wholesale Hub
+Prawns - Batch 20,Meat,81,2025-06-25,27,18,Hyderabad FreshMart
+Buttermilk - Batch 18,Dairy,72,2025-07-01,9,18,Bengaluru Supercenter
+Prawns - Batch 1,Meat,40,2025-06-26,7,22,Bengaluru Supercenter
+Ice Cream Tub - Batch 8,Frozen,64,2025-07-18,5,8,Bengaluru Supercenter
+Fish Fillet - Batch 12,Meat,41,2025-07-05,9,5,Mumbai Express
+Frozen Mixed Veg - Batch 20,Frozen,97,2025-07-21,3,25,Hyderabad FreshMart
+Multigrain Bread - Batch 15,Bakery,83,2025-06-29,22,18,Mumbai Express
+Multigrain Bread - Batch 3,Bakery,77,2025-07-07,37,22,Bengaluru Supercenter
+Oranges - Batch 7,Fruits,30,2025-07-04,3,5,Delhi Wholesale Hub
+Frozen French Fries - Batch 7,Frozen,32,2025-06-30,8,20,Mumbai Express
+Amul Milk - Batch 2,Dairy,49,2025-07-04,3,15,Bengaluru Supercenter
+Curd Pack - Batch 13,Dairy,32,2025-06-30,6,18,Mumbai Express
+Mango - Batch 11,Fruits,48,2025-07-09,6,15,Delhi Wholesale Hub
+Oranges - Batch 11,Fruits,69,2025-07-06,27,18,Delhi Wholesale Hub
+Multigrain Bread - Batch 9,Bakery,44,2025-06-30,3,12,Mumbai Express
+Mango - Batch 19,Fruits,70,2025-06-21,14,10,Hyderabad FreshMart
+Cheese Slice Pack - Batch 5,Dairy,76,2025-06-20,13,22,Bengaluru Supercenter
+Amul Milk - Batch 6,Dairy,59,2025-06-15,21,12,Delhi Wholesale Hub
+Brown Bread - Batch 12,Bakery,115,2025-06-17,54,0,Mumbai Express
+Fish Fillet - Batch 1,Meat,31,2025-06-28,3,22,Hyderabad FreshMart
+Frozen Corn - Batch 5,Frozen,71,2025-07-08,12,25,Mumbai Express
+Frozen French Fries - Batch 2,Frozen,19,2025-07-22,6,20,Hyderabad FreshMart
+Cheese Slice Pack - Batch 7,Dairy,50,2025-06-30,2,20,Hyderabad FreshMart
+Cupcakes - Batch 20,Bakery,60,2025-07-03,19,20,Mumbai Express
+Lassi Bottle - Batch 16,Dairy,94,2025-06-28,13,25,Mumbai Express
+Curd Pack - Batch 7,Dairy,13,2025-07-05,4,20,Hyderabad FreshMart
+Donuts - Batch 11,Bakery,65,2025-07-02,15,0,Bengaluru Supercenter
+Grapes - Batch 19,Fruits,111,2025-06-28,16,20,Delhi Wholesale Hub
+Fish Fillet - Batch 13,Meat,14,2025-07-10,0,15,Bengaluru Supercenter
+Frozen Mixed Veg - Batch 19,Frozen,109,2025-07-17,40,18,Delhi Wholesale Hub
+Donuts - Batch 4,Bakery,24,2025-07-09,9,20,Hyderabad FreshMart
+Chicken Breast - Batch 10,Meat,21,2025-07-04,5,25,Hyderabad FreshMart
+Ice Cream Tub - Batch 7,Frozen,75,2025-07-08,5,8,Bengaluru Supercenter
+Bananas - Batch 15,Fruits,102,2025-06-20,10,10,Bengaluru Supercenter
+Curd Pack - Batch 4,Dairy,89,2025-06-29,24,10,Hyderabad FreshMart
+Buttermilk - Batch 15,Dairy,80,2025-07-04,5,0,Delhi Wholesale Hub
+Croissants - Batch 1,Bakery,106,2025-07-06,25,10,Bengaluru Supercenter
+Watermelon - Batch 20,Fruits,84,2025-06-22,3,8,Bengaluru Supercenter
+Sausages - Batch 7,Meat,26,2025-07-04,0,12,Bengaluru Supercenter
+Mango - Batch 9,Fruits,42,2025-06-23,10,25,Hyderabad FreshMart
+Ice Cream Tub - Batch 18,Frozen,56,2025-07-17,7,12,Bengaluru Supercenter
+Multigrain Bread - Batch 12,Bakery,117,2025-07-03,45,22,Mumbai Express
+Curd Pack - Batch 20,Dairy,113,2025-06-19,51,22,Hyderabad FreshMart
+Frozen French Fries - Batch 11,Frozen,63,2025-07-01,14,25,Delhi Wholesale Hub
+Sausages - Batch 19,Meat,63,2025-07-07,31,20,Bengaluru Supercenter
+Sausages - Batch 4,Meat,83,2025-06-17,23,5,Bengaluru Supercenter
